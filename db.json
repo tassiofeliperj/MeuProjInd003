@@ -1,0 +1,80 @@
+{
+  "Pratos": [
+    {
+      "id": 1,
+      "nome": "Frango à Parmegiana",
+      "descricao": "Prato Feito",
+      "preço": "18.5"      
+    },
+    {
+      "id": 2,
+      "nome": "Frango grelhado",
+      "descricao": "Prato Feito",
+      "preço": "15.5"
+    },
+    {
+      "id": 3,
+      "nome": "Carne Seca com Abóbora",
+      "descricao": "Prato Feito",
+      "preço": "19.5"
+    },
+    {
+      "id": 4,
+      "nome": "Filé Com Fritas",
+      "descricao": "Prato Feito",
+      "preço": "22.5"
+    }
+  ],
+  "Refrigerantes": [
+    {
+      "id": 1,
+      "nome": "Coca-Cola lata",
+      "descricao": "Coca 350ml",
+      "preço": "5.5"
+    },
+    {
+      "id": 2,
+      "nome": "Fanta lata",
+      "descricao": "fanta 350ml",
+      "preço": "5.5"
+    },
+    {
+      "id": 3,
+      "nome": "Mineirinho 200ml",
+      "descricao": "Mineirinho garrafinha",
+      "preço": "4.5"
+    },
+    {
+      "id": 4,
+      "nome": "Coca-Cola 2l",
+      "descricao": "Coca 2 litros",
+      "preço": "9.5"
+    }
+  ],
+  "cervejas": [
+    {
+      "id": 1,
+      "nome": "Chopp 500ml",
+      "descricao": "Artesanal, caneca",
+      "preço": "10.9"
+    },
+    {
+      "id": 2,
+      "nome": "Chopp 300ml",
+      "descricao": "Artesanal, tulipa",
+      "preço": "7.9"
+    },
+    {
+      "id": 3,
+      "nome": "Budweiser 350ml",
+      "descricao": "Long neck",
+      "preço": "12"
+    },
+    {
+      "id": 4,
+      "nome": "Heineken 350ml",
+      "descricao": "Long neck",
+      "preço": "15"
+    }
+  ]
+}
